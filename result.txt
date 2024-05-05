@@ -1,0 +1,8 @@
+Example:
+    box 1: apple - 250g - 2,00€
+Example:
+    box 1: apple, avocado, apple - 900g - 4,60€
+    box 2: apple, avocado - 600g - 4,30€
+Example:
+Example:
+    box 1: apple, avocado - 300g - 4,00€
